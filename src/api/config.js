@@ -1,4 +1,4 @@
-export const apiKey = "afca2656cc551632bb3c538c9d52ccc3";
+export const apiKey = "YOUR_TMDB_APİ_KEY";
 
 export const IMAGES_API = 'https://image.tmdb.org/t/p/w1280' 
 
