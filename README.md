@@ -12,10 +12,10 @@ MoviesAPP is movie gallery created using React Hooks, Context API and React Rout
  
  
  
- ## Motivation
+ ### Motivation
 The purpose of this project was to get familiar with React Hooks and Context API.
  
- ## Getting Started
+ ###  Getting Started
 
 Getting Started
 Click the demo link or clone/download the repository on your local machine. There is a config.js file in the api folder inside the src folders. export const apiKey = "YOUR_TMDB_API_KEY" to config.js;
